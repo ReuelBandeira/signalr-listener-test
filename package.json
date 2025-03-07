@@ -1,0 +1,16 @@
+{
+  "name": "testesignalr",
+  "version": "1.0.0",
+  "main": "signal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.7",
+    "chalk": "^5.4.1"
+  }
+}
